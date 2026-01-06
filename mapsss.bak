@@ -1,0 +1,132 @@
+map1 = [
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "                                                                                        "
+    ],
+    [
+        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    ],
+]
+
+tilex_size, tiley_size = (
+    16,
+    16,
+)  # the resoulution should be 800w and 600h and cam should be 37 block up (first is y and then x)
+
+print(f"{len(map1)}")
+
+print(f"{map1[3][0]}")
+print(f"{map1[len(map1) - 1][0]}")
